@@ -12,7 +12,7 @@ This repository contains input files to perform molecular dynamics (MD) simulati
 |------|--------------|
 | `input.dat` | Main LAMMPS input script. Defines the simulation workflow, including initialization, potential setup, equilibration, and production runs. |
 | `structure.dat` | Atomic structure file containing atom types, coordinates, and box dimensions. Used as the starting configuration. |
-| `parameters.dat` | Potential parameter file. Defines pair coefficients, bond/angle parameters, or tabulated potentials used in the simulation. |
+| `parameters.dat` | Potential parameter file. Defines the force field parameters used in the simulation. |
 
 ---
 
