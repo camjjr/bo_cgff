@@ -2,7 +2,7 @@
 
 # LAMMPS Simulation: Atomistic Pebax
 
-This repository contains input files to perform molecular dynamics (MD) simulations using **LAMMPS**.  
+This repository contains input files to perform molecular dynamics (MD) simulations using **LAMMPS**. All simulations were performed on a 12th Gen Intel(R) Core(TM) i9-12900K dedicated machine, with an average iteration time of approximately 3 minutes.
 
 ---
 
